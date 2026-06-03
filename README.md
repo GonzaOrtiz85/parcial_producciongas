@@ -1,0 +1,1 @@
+Entrega 2 correspondiente al proyecto de Aprendizaje Automático. El repositorio incluye el dataset original, el dataset procesado, la notebook de trabajo y el  documento de descripción del dataset y origen. TAmbien posee las entregas 1 y 2
